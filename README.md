@@ -22,11 +22,11 @@
 
 -   **scrapy进阶**
 
-![](media/3c2c8c4059892a53cd2f429603b2b407.png)
+![](https://wx4.sinaimg.cn/mw690/0074AeMrly1gmnjb7q1j4j30pm0ddjvd.jpg)
 
 -   **scrapy redis分布式爬虫**
 
-![](media/d40a0764eef1016ee437c728945d6128.png)
+![](https://wx3.sinaimg.cn/mw690/0074AeMrly1gmnjbcag1oj315m0pgth2.jpg)
 
 -   **cookie池系统设计和实现**
 
