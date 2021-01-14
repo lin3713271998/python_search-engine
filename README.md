@@ -1,6 +1,6 @@
 # python_search-engine
 
-
+## 流程
 ### 1.数据爬取
 
 ### 2.数据存储
@@ -12,6 +12,7 @@
 ### 5.搭建web
 
 
+## 学习内容
 -   **环境配置和基础知识铺垫**
 
 -   **爬虫基础（正则表达式 url去重）**
@@ -22,11 +23,11 @@
 
 -   **scrapy进阶**
 
-![](https://wx4.sinaimg.cn/mw690/0074AeMrly1gmnjb7q1j4j30pm0ddjvd.jpg)
+![](https://wx3.sinaimg.cn/mw690/0074AeMrly1gmnjbcag1oj315m0pgth2.jpg)
 
 -   **scrapy redis分布式爬虫**
 
-![](https://wx3.sinaimg.cn/mw690/0074AeMrly1gmnjbcag1oj315m0pgth2.jpg)
+![](https://wx4.sinaimg.cn/mw690/0074AeMrly1gmnjb7q1j4j30pm0ddjvd.jpg)
 
 -   **cookie池系统设计和实现**
 
