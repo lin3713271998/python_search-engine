@@ -35,10 +35,8 @@
 
 -   **增量抓取**
 
--   **elasticsearch django实现搜索引擎**
+-   **elasticsearch实现搜索引擎**
 
--   **django**
-
--   **搭建搜索网站**
+-   **django搭建搜索网站**
 
 -   **scrapyd部署scrapy爬虫**
